@@ -1011,3 +1011,11 @@ best.aliexpress.com
 feedly.com
 settings.crashlytics.com
 p.presage.io
+setting.rayjump.com
+net.rayjump.com
+analytics.rayjump.com
+api2.branch.io
+rt.applovin.com
+config.inmobi.com
+rt.applvn.com
+
